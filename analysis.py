@@ -260,10 +260,7 @@ class crimeAnalysis:
 
         # Sara step 3
         self.response(top_crime, hotspot, offender_data)
-
-       
         
-
 if __name__ == "__main__":
     analysis = crimeAnalysis()
     analysis.main()
